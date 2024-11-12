@@ -5,7 +5,7 @@
 ![Lampiran](tamb.png)
 <br>2. Proses Tambah Data
 <br>Saat pengguna menekan tombol "TAMBAH MAHASISWA", form untuk menambah data mahasiswa akan muncul. Pada bagian kiri atas form, terdapat tombol "BATAL" yang dapat digunakan untuk membatalkan pengisian form dan menutup form tanpa menyimpan perubahan. Di dalam form terdapat dua field yang harus diisi, yaitu Nama Mahasiswa dan Jurusan Mahasiswa. Setelah mengisi kedua field tersebut, pengguna dapat menekan tombol "TAMBAH MAHASISWA" yang terletak di bawah form untuk mengirimkan data yang telah dimasukkan ke dalam database. Dengan menekan tombol tersebut, data mahasiswa yang baru akan disimpan dan ditampilkan di daftar mahasiswa.
-![Lampiran](aft tamb.png)
+![Lampiran](aft-tamb.png)
 Ini adalah tampilan setelah menambahkan data.
 
 ![Lampiran](edt.png)
